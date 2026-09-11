@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Abilash 👋
 
-<!--
-**abilash-18/abilash-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **AI & ML Engineering Student**
+💻 Beginner Developer | 🌱 Learning & Building
 
-Here are some ideas to get you started:
+I'm currently pursuing **Artificial Intelligence & Machine Learning Engineering**.
+I'm still at the beginning of my coding journey, but I'm continuously learning, experimenting, and building projects along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Technologies
+
+* 🐍 Python
+* 💻 C Programming
+* 🤖 Artificial Intelligence & Machine Learning — Currently Learning
+* 🔧 Git & GitHub — Learning
+
+### 🚀 Project
+
+**🌱 Smart Irrigation System**
+Developed as a 2nd-semester project to explore smart technology and automation in agriculture.
+
+### 📚 Currently Learning
+
+* Artificial Intelligence
+* Machine Learning
+* Python Programming
+* Problem Solving
+* Software Development
+
+### 🎯 Career Goal
+
+Still exploring and discovering the right career path in the **AI/ML field**.
+For now, my goal is simple — **learn, build, improve, and grow.** 🚀
+
+### 🌱 My Mindset
+
+> *"Every expert was once a beginner."*
+
+Thanks for visiting my profile! ✨
